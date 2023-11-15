@@ -1,0 +1,34 @@
+
+body{
+  background-color: rgb(174, 171, 171);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 10px;
+
+}
+section{
+  display: flex;
+  flex-direction: row;
+}
+.flowerContainer{
+  width: 30%;
+}
+
+.container{
+  border: solid 3px lightblue;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  padding: 10px;
+  background-color: grey;
+}
+#namn{
+  color: lightblue;
+  font-size: 2rem;
+}
+.imgPlantor{
+  width: 200px;
+}
+
